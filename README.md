@@ -19,7 +19,7 @@
 
   ### Problem Soving
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={baum12345})](https://solved.ac/{baum12345})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=baum12345)](https://solved.ac/baum12345)
 
 ## :love_letter: SNS
 [<img src="https://img.shields.io/badge/-TISTORY-000000?logo=Tistory&logoColor=white"/>](https://keydi.tistory.com/)
