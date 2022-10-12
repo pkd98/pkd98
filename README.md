@@ -17,7 +17,7 @@
   * SQLD (SQL 개발자) - 220930 취득  
   * 컴퓨터활용능력 2급 - 180817 취득
 
-## :love_letter: SNS
+## :love_letter: Study Blog
 [<img src="https://img.shields.io/badge/-TISTORY-000000?logo=Tistory&logoColor=white"/>](https://keydi.tistory.com/)
 
 ![PKD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkd98&count_private=true)
