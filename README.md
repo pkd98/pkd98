@@ -1,6 +1,6 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkd98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :wave: Introduction
-안녕하세요! IT 개발자 취업을 희망하는 취준생입니다. 웹 백엔드, AI, 클라우드 분야에 관심이 있습니다!
+안녕하세요! 차근차근 배워가며 성장하는 예비 IT 개발자입니다. 웹 백엔드, AI, 클라우드 분야에 관심이 있습니다!
 
 ## :fire: Interest
   <img src="https://img.shields.io/badge/-SPRING-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-ANDROID-3DDC84?logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/- JAVA -808080?"/> <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&logoColor=white"/>
@@ -11,8 +11,8 @@
   한성대학교, (17.03~23.02)
   * 전공 : 전자, 정보시스템공학 
   
-  KT AIVLE School, (22.02 ~)
-  *  AI Track 3기 
+  한국폴리텍대학 광명융합기술교육원, (23.03~)
+  *  데이터분석학과 (하나금융TI 채용연계형)
 
   ### [Certificate](https://github.com/pkd98/Certificate)
   * 정보처리기사 - 220617 취득  
