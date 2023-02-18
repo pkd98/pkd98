@@ -24,6 +24,6 @@
 [<img src="https://img.shields.io/badge/-TISTORY Blog-000000?logo=Tistory&logoColor=white"/>](https://keydi.tistory.com/)
 [<img src="https://img.shields.io/badge/-NAVER mail-03C75A?logo=Naver&logoColor=white"/>](mailto:baum12345@naver.com)
 
-
+## 💾𝐑𝐞𝐜𝐨𝐫𝐝
 ![PKD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkd98&count_private=true)
 
