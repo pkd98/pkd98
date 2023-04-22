@@ -1,7 +1,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkd98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :wave: Introduction
 ```
-안녕하세요! 차근차근 배워가며 성장하는 예비 IT 개발자입니다. 웹 백엔드, AI, Devops, 클라우드 분야에 관심이 있습니다! 🔥
+안녕하세요! 차근차근 배워가며 성장하는 예비 IT 개발자입니다.
+웹 백엔드, AI, Devops, 클라우드 분야에 관심이 있습니다! 🔥
 ```
 
 ## :fire: Interest
