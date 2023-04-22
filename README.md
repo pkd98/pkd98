@@ -2,7 +2,7 @@
 ## :wave: Introduction
 ```
 안녕하세요! 차근차근 배워가며 성장하는 예비 IT 개발자입니다.
-웹 백엔드, AI, Devops, 클라우드 분야에 관심이 있습니다! 🔥
+웹 백엔드 개발, Devops, 클라우드, AI분야에 관심이 있습니다! 🔥
 ```
 
 ## :fire: Interest
