@@ -39,4 +39,5 @@
 [<img src="https://img.shields.io/badge/-NAVER mail-03C75A?logo=Naver&logoColor=white"/>](mailto:baum12345@naver.com)
 
 ## 💾𝐑𝐞𝐜𝐨𝐫𝐝
-![PKD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkd98&count_private=true)
+![PKD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkd98&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkd98&langs_count=10&layout=compact)]()
