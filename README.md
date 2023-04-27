@@ -7,14 +7,17 @@
 
 ## :fire: Interest
 <p>
-  <img src="https://img.shields.io/badge/- Java -007396?"/>
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SPRING-6DB33F?logo=Spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-ANDROID-3DDC84?logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/- Oracle -F80000?logo=Oracle&logoColor=white"/>
-</p>
+  <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234900480-15c182c7-a54e-4e6c-bedb-bd77b9ff3f01.png" alt="eclipse" width="40" height="40"/> </a>
+      <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234903996-0263a7b0-994a-48c6-98a7-970524bac6fa.png" alt="Intellij" width="40" height="40"/> </a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> </a>
 
 <p>
+  <img src="https://img.shields.io/badge/- Oracle -F80000?logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
@@ -37,6 +40,9 @@
 ## :love_letter: Contacts
 [<img src="https://img.shields.io/badge/-TISTORY Blog-000000?logo=Tistory&logoColor=white"/>](https://keydi.tistory.com/)
 [<img src="https://img.shields.io/badge/-NAVER mail-03C75A?logo=Naver&logoColor=white"/>](mailto:baum12345@naver.com)
+
+![](https://github.com/pkd98/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/pkd98/github-stats-transparent/blob/output/generated/languages.svg)
 
 ## 💾𝐑𝐞𝐜𝐨𝐫𝐝
 ![PKD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkd98&count_private=true)  
