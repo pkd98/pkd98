@@ -18,6 +18,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/- Oracle -F80000?logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
