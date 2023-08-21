@@ -9,12 +9,16 @@
 <p>
   <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dn/vRXMH/btrqmqGvK5z/idTryIRmD4Rf6r54gDCArk/img.png" alt="spring boot" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234900480-15c182c7-a54e-4e6c-bedb-bd77b9ff3f01.png" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234903996-0263a7b0-994a-48c6-98a7-970524bac6fa.png" alt="Intellij" width="40" height="40"/> </a>
+    <a href="https://www.oracle.com/kr/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="sqldeveloper" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> </a>
+
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234900480-15c182c7-a54e-4e6c-bedb-bd77b9ff3f01.png" alt="eclipse" width="40" height="40"/> </a>
-      <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101521005/234903996-0263a7b0-994a-48c6-98a7-970524bac6fa.png" alt="Intellij" width="40" height="40"/> </a>
-    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> </a>
+
 
 <p>
   <img src="https://img.shields.io/badge/- Oracle -F80000?logo=Oracle&logoColor=white"/>
