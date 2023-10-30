@@ -1,7 +1,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkd98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :wave: Introduction
 ```
-안녕하세요! 차근차근 배워가며 성장하는 예비 IT 개발자입니다.
+안녕하세요! 차근차근 배워가며 성장하는 IT 개발자입니다.
 웹 백엔드 개발, Devops, Cloud Computing, AI분야에 관심이 있습니다! 🔥
 ```
 
@@ -33,7 +33,7 @@
   * 한성대학교, (17.03~23.02)  
     * 전공 : 전자, 정보시스템공학  
   
-  * 하나금융TI 채용연계형 교육 (23.03~)
+  * 하나금융TI 채용연계형 교육 (23.03~23.11)
     * 광명융합기술교육원 데이터분석학과
 
   ### 📖 [Certificate](https://github.com/pkd98/Certificate)
