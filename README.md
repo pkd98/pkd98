@@ -27,10 +27,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
 </p>
-  
-## ✏️: Studing
+
+## 🖥️ Career
+ * 하나금융TI (23.11~)
+
+## ✏️ Studing
   ### 🎓 Education
-  * 한성대학교, (17.03~23.02)  
+  * 한성대학교 (17.03~23.02)  
     * 전공 : 전자, 정보시스템공학  
   
   * 하나금융TI 채용연계형 교육 (23.03~23.11)
@@ -41,6 +44,9 @@
   * 정보처리기능사 - 181115 취득
   * SQLD (SQL 개발자) - 220930 취득  
   * 컴퓨터활용능력 2급 - 180817 취득
+
+  ### 🏆 Awards
+  * 제 7회 벤처창업아이템 경진대회 대상 (고용노동부장관상)
 
 ## :love_letter: Contacts
 [<img src="https://img.shields.io/badge/-TISTORY Blog-000000?logo=Tistory&logoColor=white"/>](https://keydi.tistory.com/)
