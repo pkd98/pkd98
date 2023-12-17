@@ -30,7 +30,7 @@
 
 ## 🖥️ Career
  * 하나금융TI (23.11~)  
-   * 하나증권 FEP 개발 및 유지보수
+   * 하나증권 FEP 개발 및 운영
 
 ## ✏️ Studing
   ### 🎓 Education
