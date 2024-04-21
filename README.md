@@ -1,8 +1,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkd98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :wave: Introduction
 ```
-안녕하세요! 차근차근 배워가며 성장하는 IT 개발자입니다.
-웹 백엔드 개발, Devops, Cloud Computing, AI분야에 관심이 있습니다! 🔥
+안녕하세요. 차근차근 배워가며 성장하는 IT 개발자입니다.
+시스템 운영 관점에서 코드 유지보수성에 대한 개선점과 성능 개선을 고민해보고, 안정적인 시스템 운영을 위한 인프라 아키텍처를 경험하고 있습니다.
+다양한 IT분야에 관심이 많아, Devops, Cloud Computing, AI, Blockchain 분야 등 끊임없이 리서치하며 아아디어를 얻고있습니다. 🔥
 ```
 
 ## :fire: Interest
@@ -29,8 +30,8 @@
 </p>
 
 ## 🖥️ Career
- * 하나금융TI (23.11~)  
-   * 하나증권 FEP 개발 및 운영
+ * 하나금융TI (23.11~)
+   * 하나증권 대외연계(FEP) 시스템 개발 및 운영
 
 ## ✏️ Studing
   ### 🎓 Education
